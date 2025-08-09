@@ -34,10 +34,12 @@ Tables 1, 2, and 3 in our paper represent customized system performance scores g
 
 Table 4 presents comparative performance with existing models, supported by published works as follows:
 
-Model & Reference	Source	Reported Accuracy	Notes
-Logistic Regression	Mawardi, V. C., & Darmaja, E. (2023). Logistic Regression Method for Sentiment Analysis application on Google PlayStore. International Journal of Application on Sciences Technology and Engineering, 1(1), 241–247. DOI	88%	Used as baseline; our tool outperformed this score.
-BERT	Bello A, Ng SC, Leung MF. (2023). A BERT Framework to Sentiment Analysis of Tweets. Sensors (Basel), 23(1), 506. DOI	92%	Advanced transformer-based approach.
-RoBERTa	Tan, K. L., Lee, C. P., & Lim, K. M. (2023). A Survey of Sentiment Analysis: Approaches, Datasets, and Future Research. Applied Sciences, 13(7), 4550. DOI	94%	Highest among surveyed models before our approach.
+| Model & Reference | Source | Reported Accuracy | Notes |
+|-------------------|--------|-------------------|-------|
+| **Logistic Regression** | Mawardi, V. C., & Darmaja, E. (2023). *Logistic Regression Method for Sentiment Analysis application on Google PlayStore*. International Journal of Application on Sciences Technology and Engineering, 1(1), 241–247. [DOI](https://doi.org/10.24912/ijaste.v1.i1.241-247) | **88%** | Used as baseline; our tool outperformed this score. |
+| **BERT** | Bello A, Ng SC, Leung MF. (2023). *A BERT Framework to Sentiment Analysis of Tweets*. Sensors (Basel), 23(1), 506. [DOI](https://doi.org/10.3390/s23010506) | **92%** | Advanced transformer-based approach. |
+| **RoBERTa** | Tan, K. L., Lee, C. P., & Lim, K. M. (2023). *A Survey of Sentiment Analysis: Approaches, Datasets, and Future Research*. Applied Sciences, 13(7), 4550. [DOI](https://doi.org/10.3390/app13074550) | **94%** | Highest among surveyed models before our approach. |
+
 
 🏆 Why This Work Stands Out
 
