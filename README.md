@@ -53,8 +53,7 @@ Practical Benefits: Integrated complaint tracking ensures real-world usability i
 
 Proven Superiority: Demonstrated improved accuracy over leading models including Logistic Regression, BERT, and RoBERTa.
 
-🔍 References used for Table 4
-
+🔍 References 
 
 Mawardi, V. C., & Darmaja, E. (2023). Logistic Regression Method for Sentiment Analysis application on Google PlayStore. International Journal of Application on Sciences Technology and Engineering, 1(1), 241–247. https://doi.org/10.24912/ijaste.v1.i1.241-247
 
