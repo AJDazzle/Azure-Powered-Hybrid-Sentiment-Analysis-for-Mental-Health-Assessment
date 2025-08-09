@@ -53,7 +53,7 @@ Practical Benefits: Integrated complaint tracking ensures real-world usability i
 
 Proven Superiority: Demonstrated improved accuracy over leading models including Logistic Regression, BERT, and RoBERTa.
 
-🔍 References
+🔍 References used for Table 4
 
 
 Mawardi, V. C., & Darmaja, E. (2023). Logistic Regression Method for Sentiment Analysis application on Google PlayStore. International Journal of Application on Sciences Technology and Engineering, 1(1), 241–247. https://doi.org/10.24912/ijaste.v1.i1.241-247
@@ -61,3 +61,5 @@ Mawardi, V. C., & Darmaja, E. (2023). Logistic Regression Method for Sentiment A
 Bello A, Ng SC, Leung MF. (2023). A BERT Framework to Sentiment Analysis of Tweets. Sensors (Basel), 23(1), 506. https://doi.org/10.3390/s23010506
 
 Tan, K. L., Lee, C. P., & Lim, K. M. (2023). A Survey of Sentiment Analysis: Approaches, Datasets, and Future Research. Applied Sciences, 13(7), 4550. https://doi.org/10.3390/app13074550
+
+Note : Other references has been provided in the Paper
